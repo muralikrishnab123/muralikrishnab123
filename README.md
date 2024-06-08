@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @Murali Krishna B
+- 👀 I’m interested in Games and movies...
+- 🌱 I’m currently learning Web Development...
+- 📫 How to reach me muralikrishnabalamurali@gmail.com...
+
+<!---
+muralikrishnab123/muralikrishnab123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
